@@ -2,13 +2,13 @@
   "name": "search-pursuit",
   "main": "./lib/search-pursuit",
   "version": "1.0.0",
-  "description": "Search Highlighted word in Pursuit library from Atom Editor",
+  "description": "Search Highlighted word in Pursuit (Purescript) library from Atom Editor",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "search-pursuit:toggle"
   },
-  "repository": "https://github.com/atom/search-pursuit",
+  "repository": "https://github.com/nikhilnagaraju/search-pursuit",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
