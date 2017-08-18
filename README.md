@@ -1,5 +1,8 @@
 # search-pursuit package
 
-Search Highlighted word/keyword in Pursuit library from Atom Editor.
+A simple "Atom-Hackable Editor" package to search for Purescript modules or functions in Pursuit library
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Install the package using `apm` or through Atom install menu.
+Highlight the keyword to be searched in Pursuit library.
+Use "Ctrl-Shift-." in command Palette to search.
+Empty search (without highlighting any keyword), just opens Pursuit.
