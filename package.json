@@ -1,8 +1,8 @@
 {
   "name": "search-pursuit",
   "main": "./lib/search-pursuit",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "1.0.0",
+  "description": "Search Highlighted word in Pursuit library from Atom Editor",
   "keywords": [
   ],
   "activationCommands": {
