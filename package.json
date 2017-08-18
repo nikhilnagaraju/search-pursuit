@@ -1,10 +1,9 @@
 {
   "name": "search-pursuit",
   "main": "./lib/search-pursuit",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Search Highlighted word in Pursuit (Purescript) library from Atom Editor",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "search-pursuit:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
