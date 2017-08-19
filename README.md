@@ -7,9 +7,9 @@
 
 Install the package using `apm` or through Atom install menu.
 
-Highlight the keyword to be searched in Pursuit library.
+Highlight the keyword to be searched in [Pursuit](https://pursuit.purescript.org/) library.
 
 Use `"Ctrl-Shift-."` as a hotkey or use Command Palette to search after highlighting.
 
-*Empty search (without highlighting any keyword), just opens Pursuit.*
+*Empty search (without highlighting any keyword), just opens [Pursuit](https://pursuit.purescript.org/).*
 
